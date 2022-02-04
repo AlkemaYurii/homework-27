@@ -6,7 +6,7 @@ const Header = (props) => {
 const App = () => {
     return (
         <>
-            <Header title="it's Homework #27" />
+            <Header title="it's Tourist Project" />
         </>
     )
 }
